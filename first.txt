@@ -1,3 +1,5 @@
 Name=Santosh Kumar
 Roll No.=15EX20024
 Department=Geology And Geophysics
+Add=(LBS Hall of residense IIT Kharagpur AA-506)
+
